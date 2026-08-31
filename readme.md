@@ -103,11 +103,11 @@ Built to support the **MBSE project at EVO GmbH / TU Augsburg**, where existing 
 
 ### Demo output — MATLAB Script → JavaScript
 
-![MATLAB to JS conversion](assets/screenshots/matlab_to_js.png)
+![MATLAB to JS conversion](screenshots/matlab_to_js.png)
 
 ### Demo output — Simulink Diagram → JavaScript
 
-![Simulink to JS conversion](assets/screenshots/simulink_to_js.png)
+![Simulink to JS conversion](screenshots/simulink_to_js.png)
 
 **Conversion summary:**
 
